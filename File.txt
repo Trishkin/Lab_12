@@ -1,0 +1,35 @@
+
+Сборка
+Lab_12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Имеются ли публичные конструкторы
+True
+
+Методы
+System.String get_Subject()
+Void set_Subject(System.String)
+Boolean electronic_analogue()
+System.String ToString()
+System.String get_NameOfBook()
+Void set_NameOfBook(System.String)
+Int32 get_Age()
+Void set_Age(Int32)
+Double get_Price()
+Void set_Price(Double)
+System.Type GetType()
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+
+Поля
+System.String Author
+System.String Publisher
+
+Свойства
+System.String Subject
+System.String NameOfBook
+Int32 Age
+Double Price
+
+Интерфейсы
+Laba_7.Book.IBook
+
